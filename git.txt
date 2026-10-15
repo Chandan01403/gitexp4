@@ -1,0 +1,26 @@
+[200~GitHub is a cloud-based web platform that lets developers store, manage, and collaborate on computer code. [1, 2] 
+## What GitHub Does
+
+* Code Hosting: It acts as an online home (in the cloud) for your project files, similar to Google Drive, but specifically built for source code. [2, 3] 
+* Version Control (Git): It runs on Git, a tool that tracks every change made to files so you can undo mistakes, see who edited what, and safely go back to earlier versions. [1, 4] 
+* Team Collaboration: Multiple people can work on the same project at the same time using features like branches (safe working copies) and pull requests (proposing and reviewing code changes before adding them). [2, 5] 
+* Project Management: It includes bug trackers, task lists, automated testing (CI/CD), and documentation wikis for software projects. [1, 6] 
+
+## Git vs. GitHub: What is the Difference?
+
+* Git is the underlying software running locally on your computer that tracks file changes. [2, 7] 
+* GitHub is the website and cloud service that hosts your Git projects and adds an easy-to-use visual interface for sharing and working with others. [2, 7] 
+
+You can learn more or sign up directly on [GitHub](https://github.com/about). [8, 9] 
+Would you like to know how to create your first repository or how to install Git on your computer?
+
+[1] [https://docs.github.com](https://docs.github.com/en/get-started/start-your-journey/what-is-github)
+[2] [https://www.youtube.com](https://www.youtube.com/watch?v=QzvA7r-WndM&vl=en&t=170)
+[3] [https://www.youtube.com](https://www.youtube.com/shorts/2Ymy8vKYCw0)
+[4] [https://www.coursera.org](https://www.coursera.org/in/articles/what-is-github)
+[5] [https://www.youtube.com](https://www.youtube.com/watch?v=pBy1zgt0XPc&t=1)
+[6] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/GitHub)
+[7] [https://www.coursera.org](https://www.coursera.org/articles/what-is-github)
+[8] [https://www.w3schools.com](https://www.w3schools.com/whatis/whatis_github.asp)
+[9] [https://github.com](https://github.com/about)
+
